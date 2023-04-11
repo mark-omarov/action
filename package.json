@@ -48,6 +48,10 @@
     "semver": "^6.3.0",
     "unified": "^8.3.2"
   },
+  "resolutions": {
+    "glob-parent": "^5.1.2",
+    "node-fetch": "^2.6.7"
+  },
   "husky": {
     "hooks": {}
   },
