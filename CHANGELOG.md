@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.4.5
+
+### Patch Changes
+
+- [`6ac5619`](https://github.com/changesets/action/commit/6ac561919e8674e3afab8358f12055179f432e12) Thanks [@mark-omarov](https://github.com/mark-omarov)! - Patch security vulnerabilities
+
 ## 1.4.4
 
 ### Patch Changes
